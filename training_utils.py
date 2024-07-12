@@ -11,7 +11,7 @@ import numpy as np
 import os
 import math
 import argparse
-from utils.data import retrieve_owt_data
+from data import retrieve_owt_data
 
 
 # %%
